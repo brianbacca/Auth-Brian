@@ -22,52 +22,48 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+# Api Auth
+### This api is created to be used in any project.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+#### its functions are:
+* register
 
-## Installation
+* login
 
-```bash
-$ npm install
-```
+* account activation
 
-## Running the app
+* change password
 
-```bash
-# development
-$ npm run start
+### build with:
 
-# watch mode
-$ npm run start:dev
+*Node JS
 
-# production mode
-$ npm run start:prod
-```
+*NestJs
 
-## Test
+*Docker-MySQL container
 
-```bash
-# unit tests
-$ npm run test
+*TypeOrm
 
-# e2e tests
-$ npm run test:e2e
+*Swagger 
 
-# test coverage
-$ npm run test:cov
-```
+## 🖥️ How to start LOCALLY:
 
-## Support
+1- Clone this repository from the `main` branch.
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+2- In your preferred CLI do ```npm install``` at the repository's root folder.
 
-## Stay in touch
+3- Do ```nest start --watch ``` at the repository's root folder.
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+## Swagger:
 
-## License
+### http://localhost:3000/docs
 
-Nest is [MIT licensed](LICENSE).
+   <p>
+  <a><img  alt="swagger1" src="https://user-images.githubusercontent.com/86269420/156235584-7633186e-4f8c-4244-b18a-8b196e466198.png" ></a>
+   </p>
+
+ <p>
+  <a><img  alt="swagger2" src="https://user-images.githubusercontent.com/86269420/156235796-ed602e4f-f7f4-45e8-91d2-bd01144908ad.png" ></a>
+  </p>
+   
+   
